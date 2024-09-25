@@ -33,10 +33,6 @@
 <a href="https://reactjs.org/" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="" width="31px" height="31px"></a>
 <a href="https://expressjs.com/" title="Express"><img src="https://github.com/get-icon/geticon/raw/master/icons/express.svg" alt="" width="31px" height="31px"></a>
 
-## Team Members:
-- [Pratiksha Sankhe](https://github.com/psankhe28)
-- [Apurv Sonawane](https://github.com/Apurv428)
-
 ## Screenshots
 - Some charts
 
